@@ -29,7 +29,7 @@ Some areas I'm especially excited about:
 
 I'm just getting started, and this GitHub is where I'll document everything:  the projects, the experiments, the mistakes, and the wins. Every commit is a step forward.
 
-> "Every expert was once a beginner."
+ "Every expert was once a beginner."
 
 ---
 
@@ -39,4 +39,4 @@ Feel free to follow along as I grow. I'm always open to learning from others in 
 
 ---
 
-⭐ *Thanks for stopping by — check back soon for new projects!*
+Thanks for stopping by. Check back soon for new projects!
